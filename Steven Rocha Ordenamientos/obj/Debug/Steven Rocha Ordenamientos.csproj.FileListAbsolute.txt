@@ -1,0 +1,10 @@
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\bin\Debug\Steven Rocha Ordenamientos.exe.config
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\bin\Debug\Steven Rocha Ordenamientos.exe
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\bin\Debug\Steven Rocha Ordenamientos.pdb
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csprojAssemblyReference.cache
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven_Rocha_Ordenamientos.Form1.resources
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven_Rocha_Ordenamientos.Properties.Resources.resources
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csproj.GenerateResource.cache
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csproj.CoreCompileInputs.cache
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.exe
+C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.pdb
