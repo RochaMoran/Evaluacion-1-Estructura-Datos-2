@@ -9,6 +9,7 @@ namespace Steven_Rocha_Ordenamientos
 {
     class Ordenamientos
     {
+        #region Declaracion de Variables y arreglo de registro
         public struct Datos
         {
             public string nombreServicio;
@@ -20,12 +21,17 @@ namespace Steven_Rocha_Ordenamientos
             index = 0;  
 
         Datos[] dato;
+        #endregion
 
+        #region Constructor
         public Ordenamientos(int max)
         {
             maximo = max;
             dato = new Datos[maximo];
         }
+        #endregion
+
+        #region Leer Datos
         public void LeerDatos(string servicio, string nombreCliente, double totalParam, DataGridView dgvDatos)
         {
             if (index < maximo)
@@ -41,6 +47,9 @@ namespace Steven_Rocha_Ordenamientos
                 MessageBox.Show("Ya no hay registros disponibles", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+        #endregion
+
+        #region Baraja
         public void Baraja(DataGridView dgvDatos)
         {
             int i, j;
@@ -82,11 +91,14 @@ namespace Steven_Rocha_Ordenamientos
                 dgvDatos.Rows.Add(dato[i].nombreServicio, dato[i].nombreCliente, dato[i].total);
             }
         }
+        #endregion
+
+        #region QUicksort
         public void Quicksort(DataGridView dgvDatos, int primero, int ultimo)
         {
-              int  centro = (primero + ultimo) / 2,
-                i = primero,
-                j = ultimo;
+            int  centro = (primero + ultimo) / 2,
+            i = primero,
+            j = ultimo;
 
             double pivote = dato[centro].total;
 
@@ -134,5 +146,6 @@ namespace Steven_Rocha_Ordenamientos
                 dgvDatos.Rows.Add(dato[i].nombreServicio, dato[i].nombreCliente, dato[i].total);
             }
         }
+        #endregion
     }
 }

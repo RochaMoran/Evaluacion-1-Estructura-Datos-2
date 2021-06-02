@@ -8,3 +8,13 @@ C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamiento
 C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csproj.CoreCompileInputs.cache
 C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.exe
 C:\Users\rocha\source\repos\Steven Rocha Ordenamientos\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.pdb
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\bin\Debug\Steven Rocha Ordenamientos.exe.config
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\bin\Debug\Steven Rocha Ordenamientos.exe
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\bin\Debug\Steven Rocha Ordenamientos.pdb
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven_Rocha_Ordenamientos.Form1.resources
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven_Rocha_Ordenamientos.Properties.Resources.resources
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csproj.GenerateResource.cache
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.exe
+C:\Users\Steven\Documents\C#\Evaluacion-1-Estructura-Datos-2\Steven Rocha Ordenamientos\obj\Debug\Steven Rocha Ordenamientos.pdb
